@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlPipe", "SqlPipe.csproj", "{89D25CF0-D8AB-4714-9F83-1D1BC8FF5C3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySqlTest", "c:\users\julio\documents\visual studio 2012\Projects\MySqlTest\MySqlTest.csproj", "{BA5EFFEA-51D7-497F-B3C9-4C314FC2A2B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlPipe.SqlServer", "c:\users\julio\documents\visual studio 2012\Projects\Frame.Util.SqlServer\SqlPipe.SqlServer.csproj", "{429D40AE-389E-4117-95B8-80907B5239D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89D25CF0-D8AB-4714-9F83-1D1BC8FF5C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D25CF0-D8AB-4714-9F83-1D1BC8FF5C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D25CF0-D8AB-4714-9F83-1D1BC8FF5C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D25CF0-D8AB-4714-9F83-1D1BC8FF5C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA5EFFEA-51D7-497F-B3C9-4C314FC2A2B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5EFFEA-51D7-497F-B3C9-4C314FC2A2B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5EFFEA-51D7-497F-B3C9-4C314FC2A2B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5EFFEA-51D7-497F-B3C9-4C314FC2A2B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{429D40AE-389E-4117-95B8-80907B5239D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429D40AE-389E-4117-95B8-80907B5239D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429D40AE-389E-4117-95B8-80907B5239D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429D40AE-389E-4117-95B8-80907B5239D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
